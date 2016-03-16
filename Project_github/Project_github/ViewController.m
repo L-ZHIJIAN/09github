@@ -20,6 +20,7 @@
     
     
     NSLog(@"123");
+    NSLog(@"李四");
 }
 
 - (void)didReceiveMemoryWarning {
